@@ -2,7 +2,7 @@
 <!DOCTYPE Invoice PUBLIC "InvoiceId" "Invoice.dtd" >
 <Invoice>
     <!-- sanjay -->
-    <!-- loan new adsfasdfasdfasdf -->
+    <!-- loan -->
   <Header invoiceNumber="12345">
     <Date>
       <Month>July</Month>
